@@ -57,6 +57,7 @@ script = ExtResource("1_6es2s")
 scale = Vector2(0.75, 0.75)
 sprite_frames = SubResource("SpriteFrames_py0q0")
 animation = &"walk"
+frame_progress = 0.998834
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 rotation = 1.5708
